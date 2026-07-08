@@ -273,7 +273,7 @@ If you find this repository useful, please consider starring it and citing it.
   title        = {Awesome Breast Cancer},
   author       = {Your Name},
   year         = {2026},
-  howpublished = {\url{https://github.com/your-username/awesome-breast-cancer}},
+  howpublished = {\url{https://github.com/atikuzzaman524/Awesome-Breast-Cancer}},
   note         = {A curated list of breast cancer datasets, papers, tools, and resources}
 }
 ```
