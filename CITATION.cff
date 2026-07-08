@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Awesome Breast Cancer"
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+year: 2026
+url: "https://github.com/your-username/awesome-breast-cancer"
+repository-code: "https://github.com/your-username/awesome-breast-cancer"
+license: MIT
+keywords:
+  - breast cancer
+  - machine learning
+  - deep learning
+  - medical imaging
+  - histopathology
+  - genomics
+  - explainable AI

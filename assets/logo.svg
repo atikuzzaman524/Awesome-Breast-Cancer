@@ -1,0 +1,7 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="80" fill="#f8fafc"/>
+  <circle cx="300" cy="300" r="210" fill="#ffe4ec"/>
+  <path d="M300 130 C230 210 205 285 240 360 C270 425 330 425 360 360 C395 285 370 210 300 130Z" fill="#ff7aa2"/>
+  <path d="M300 170 C260 230 250 285 275 335 C290 365 310 365 325 335 C350 285 340 230 300 170Z" fill="#ffffff" opacity="0.8"/>
+  <text x="300" y="500" font-family="Arial, Helvetica, sans-serif" font-size="38" text-anchor="middle" fill="#334155" font-weight="700">Awesome Breast Cancer</text>
+</svg>
