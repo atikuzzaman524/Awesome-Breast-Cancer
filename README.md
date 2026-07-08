@@ -13,21 +13,8 @@ This repository is designed for researchers, students, engineers, and medical AI
   <img src="assets/logo.svg" alt="Awesome Breast Cancer Logo" width="180"/>
 </p>
 
----
 
-## Repository Name
 
-Recommended GitHub repository name:
-
-```text
-awesome-breast-cancer
-```
-
-Readable project title:
-
-```text
-Awesome Breast Cancer
-```
 
 ---
 
