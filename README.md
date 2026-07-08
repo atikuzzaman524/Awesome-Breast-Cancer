@@ -251,9 +251,9 @@ You can contribute by adding:
 
 ---
 
-## Citation
+## Citation and Support
 
-If you find this repository useful, please consider starring it and citing it.
+If you find this repository useful, please consider giving it a ⭐ on GitHub. Your support helps more people discover these resources and citing it.
 
 ```bibtex
 @misc{awesome_breast_cancer,
@@ -264,6 +264,7 @@ If you find this repository useful, please consider starring it and citing it.
   note         = {A curated list of breast cancer datasets, papers, tools, and resources}
 }
 ```
+
 
 ---
 
