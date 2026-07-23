@@ -249,6 +249,10 @@ You can contribute by adding:
 - Useful tools
 - Reproducible experiments
 
+### Co-Author
+
+- [atikuzzamankhu](https://github.com/atikuzzamankhu)
+
 ---
 
 ## Citation and Support
