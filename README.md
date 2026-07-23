@@ -253,7 +253,7 @@ You can contribute by adding:
 
 ## Citation and Support
 
-If you find this repository useful, please consider giving it a ⭐ on GitHub. Your support helps more people discover these resources and citing it.
+If you find this repository useful, please consider giving it a ⭐ on GitHub so that more people discover these resources.
 
 ```bibtex
 @misc{awesome_breast_cancer,
