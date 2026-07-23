@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-23
+
+- Updated README co-author profile link.
+
 ## 2026-07-08
 
 - Created initial repository structure.
