@@ -4,6 +4,7 @@
 
 - Updated README co-author profile link.
 - Added a maintenance update for Pull Request workflow tracking.
+- Added a no-review merge test entry for GitHub achievement tracking.
 
 ## 2026-07-08
 
