@@ -3,6 +3,7 @@
 ## 2026-07-23
 
 - Updated README co-author profile link.
+- Added a maintenance update for Pull Request workflow tracking.
 
 ## 2026-07-08
 
